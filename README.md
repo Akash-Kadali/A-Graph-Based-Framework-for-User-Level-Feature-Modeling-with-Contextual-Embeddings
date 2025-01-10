@@ -4,9 +4,9 @@
 
 This is PAN Dataset used in the project which don't have any User Level Features :
 
-- [Data 1 Link](https://drive.google.com/drive/folders/1m8nS4Jwe4xzNuXKDoa00O6egJ7V55y3T?usp=sharing)
+- [Data 1 MIB Dataset Link](http://mib.projects.iit.cnr.it/dataset.html)
   
-- [Data 2 Link](https://drive.google.com/drive/folders/1zyCV7uzVAg2M9g0tNWncI6OHA8jOvt1e?usp=sharing)
+- [Data 2 PAN Dataset Link](https://github.com/HamedBabaei/PAN2019_bots_gender_profiling)
 
 You can download the dataset parts from the provided links.
 
