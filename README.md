@@ -39,13 +39,6 @@ You can download the dataset parts from the provided links.
 | **Our Model (Testing Data Results)**           | **0.968** | **0.971**          | **0.967**      | **0.969**        | **0.965**         | **0.969**      | **0.968**        |
 | **Our Model (Validation Data Results)**        | **0.967** | **0.968**          | **0.967**      | **0.968**        | **0.966**         | **0.966**      | **0.966**        |
 
-# README for Ablation Results
-
-## Overview
-This document provides a detailed explanation of the ablation study results conducted on the model. The purpose of this study is to evaluate the importance of various features and components in the model's performance.
-
----
-
 ## Ablation Study Results
 
 | Ablation Scenario            | Accuracy | Class 0 Precision | Class 0 Recall | Class 0 F1-Score | Class 1 Precision | Class 1 Recall | Class 1 F1-Score |
