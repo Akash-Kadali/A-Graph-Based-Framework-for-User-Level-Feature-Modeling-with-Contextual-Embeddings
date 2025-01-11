@@ -68,7 +68,3 @@ You can download the dataset parts from the provided links.
    - Features such as **Statuses Count**, **Followers Count**, **Friends Count**, and **Favorites Count** are highly influential, as removing them caused significant performance degradation.
 
 ---
-
-## Conclusion
-The ablation study highlights the importance of user-level features and graph-based components in achieving high performance. The model’s robustness is significantly impacted when these key features are removed, reaffirming their necessity in the architecture.
----
