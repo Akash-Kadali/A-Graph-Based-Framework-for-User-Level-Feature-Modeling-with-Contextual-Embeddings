@@ -20,7 +20,7 @@ You can download the dataset parts from the provided links.
 | Bot Detection in Social Networks Using Stacked Generalization Ensemble | 0.989    | 0.995              | 0.992          | 0.9935           | 0.99              | 0.988          | 0.989            |
 | Social Media Bot Detection with Deep Learning Methods: A Systematic Review | 0.952    | 0.947              | 0.943          | 0.945            | 0.94              | 0.937          | 0.9385           |
 | Twitter Bot Detection and Ranking using Supervised Machine Learning Techniques | 0.978    | 0.973              | 0.971          | 0.972            | 0.968             | 0.965          | 0.9665           |
-| Social Media Bot Detection with Deep Learning Methods: A Systematic Review | 0.965    | 0.962              | 0.96           | 0.961            | 0.958             | 0.957          | 0.9575           |
+| Development of Bot Detection Applications on Twitter Social Media Using Machine Learning with a Random Forest Classifier Algorithm | 0.965    | 0.962              | 0.96           | 0.961            | 0.958             | 0.957          | 0.9575           |
 | **Our Model (Test Data Results)**              | **0.991** | **0.991**          | **0.998**      | **0.995**        | **0.989**         | **0.955**      | **0.972**        |
 | **Our Model (Validation Data Results)**        | **0.989** | **0.989**          | **0.998**      | **0.993**        | **0.989**         | **0.944**      | **0.966**        |
 
